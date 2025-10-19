@@ -1,0 +1,6 @@
+@ReadersRule.Web_HostAddress = http://localhost:5240
+
+GET {{ReadersRule.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
